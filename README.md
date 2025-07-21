@@ -28,26 +28,6 @@ Check out the deployed version of the project:
 
 ---
 
-## 📁 Project Structure
-
-blood-donation/
-├── donor.html
-├── recipient.html
-├── hospital.html
-├── bloodbank.html
-├── login.html
-├── register.html
-├── www/
-│ └── (Compiled Web Assets)
-├── android/
-│ └── (Android Studio Project Files)
-└── capacitor.config.json
-
-
-
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
